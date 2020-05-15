@@ -1,10 +1,1 @@
- Volume in drive C is 1 TB SSD
- Volume Serial Number is 045B-EEB7
-
- Directory of C:\Users\nicol\Google Drive\Masters\Mitacs project\FlySmart map dev\FlySmart map
-
-05/15/2020  01:34 PM    <DIR>          .
-05/15/2020  01:34 PM    <DIR>          ..
-05/15/2020  01:34 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  394,436,411,392 bytes free
+change 1
