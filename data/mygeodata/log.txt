@@ -1,0 +1,38 @@
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.
+ERROR 6: DeleteLayer() not supported by this dataset.
+ERROR 1: DeleteLayer() failed when overwrite requested.

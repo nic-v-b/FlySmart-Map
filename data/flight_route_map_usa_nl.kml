@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<NetworkLink>
+        <Style id="styleDoc"><ListStyle><ItemIcon><state>open closed</state><href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href></ItemIcon></ListStyle></Style>
+		<LookAt>
+			<longitude>-93.25597729487602</longitude>
+			<latitude>35.32910344803393</latitude>
+			<altitude>0</altitude>
+			<range>3782304.132552511</range>
+			<tilt>39.31015533265556</tilt>
+			<heading>-3.65402781784469</heading>
+		</LookAt>
+	<styleUrl>#styleDoc</styleUrl>
+	<name>US Flight Maps</name>
+	<open>1</open>
+	<Url><href>http://www.barnabu.co.uk/files/kmz/flight_route_map_usa.kmz</href></Url>
+</NetworkLink>
+</kml>

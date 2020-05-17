@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ANCHORAGE MERRILL FIELD CLASS D",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "ANCHORAGE MERRILL FIELD CLASS D", "description": "<hr>\n          <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n            <tr><td rowspan=\"3\"><font size=6><b>D<\/b><\/font><\/td><td>2500F MSL<\/td><tr>\n            <tr><td>SFC<\/td><tr>\n          <\/table><br>", "altitudeMode": "absolute", "tessellate": 1, "extrude": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -149.9275, 61.26 ], [ -149.893611111110999, 61.223888888888901 ], [ -149.733611111111003, 61.227777777777803 ], [ -149.731388888889001, 61.210277777777797 ], [ -149.731944444443997, 61.185555555555602 ], [ -149.735277777778009, 61.183055555555597 ], [ -149.746111111110991, 61.181388888888897 ], [ -149.804444444443988, 61.18083333333329 ], [ -149.858333333333007, 61.181388888888897 ], [ -149.93, 61.195277777777797 ], [ -149.933055555555995, 61.205833333333302 ], [ -149.986666666666991, 61.237222222222201 ], [ -149.983055555556007, 61.238055555555597 ], [ -149.961111111110995, 61.249722222222204 ], [ -149.956944444443991, 61.253333333333302 ], [ -149.936944444444009, 61.258888888888897 ], [ -149.9275, 61.26 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "ANCHORAGE MERRILL FIELD CLASS D", "description": "<hr>\n          <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n            <tr><td rowspan=\"3\"><font size=6><b>D<\/b><\/font><\/td><td>2500F MSL<\/td><tr>\n            <tr><td>SFC<\/td><tr>\n          <\/table><br>", "altitudeMode": "absolute", "tessellate": -1, "extrude": 0 }, "geometry": { "type": "Point", "coordinates": [ -149.865625, 61.21703125 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LUKE SATR AREA B2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "LUKE SATR AREA B2", "description": "<hr>\n          <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n            <tr><td rowspan=\"3\"><font size=6><b>D<\/b><\/font><\/td><td>6000F MSL<\/td><tr>\n            <tr><td>SFC<\/td><tr>\n          <\/table><br>", "altitudeMode": "absolute", "tessellate": 1, "extrude": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -112.374166666666994, 33.6575 ], [ -112.3975, 33.635 ], [ -112.480555555555995, 33.635277777777802 ], [ -112.5275, 33.659444444444397 ], [ -112.626666666667006, 33.658888888888903 ], [ -112.631666666667002, 33.864444444444402 ], [ -112.374166666666994, 33.6575 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "LUKE SATR AREA B2", "description": "<hr>\n          <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n            <tr><td rowspan=\"3\"><font size=6><b>D<\/b><\/font><\/td><td>6000F MSL<\/td><tr>\n            <tr><td>SFC<\/td><tr>\n          <\/table><br>", "altitudeMode": "absolute", "tessellate": -1, "extrude": 0 }, "geometry": { "type": "Point", "coordinates": [ -112.506342592593001, 33.685092592592603 ] } }
+]
+}

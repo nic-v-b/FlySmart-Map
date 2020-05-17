@@ -1,0 +1,1 @@
+https://api.mapbox.com/styles/v1/nicvb/cka9ti4bj0z2q1iny1w3zqujy.html?fresh=true&title=view&access_token=pk.eyJ1IjoibmljdmIiLCJhIjoiY2thNzBxMnl0MDAyYzJ0bmZpeW1jOHNlayJ9.p5h0jJ78qIUWcRLQ19muYw

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LUKE SATR AREA A3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "LUKE SATR AREA A3", "description": "<hr>\n          <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n            <tr><td rowspan=\"3\"><font size=6><b>D<\/b><\/font><\/td><td>4000F MSL<\/td><tr>\n            <tr><td>SFC<\/td><tr>\n          <\/table><br>", "altitudeMode": "absolute", "tessellate": 1, "extrude": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -112.321111111110994, 33.706111111111099 ], [ -112.234166666666994, 33.644444444444503 ], [ -112.26, 33.593333333333298 ], [ -112.403333333332995, 33.4647222222222 ], [ -112.478055555555997, 33.466666666666697 ], [ -112.508888888889004, 33.531944444444399 ], [ -112.321111111110994, 33.706111111111099 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "LUKE SATR AREA A3", "description": "<hr>\n          <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n            <tr><td rowspan=\"3\"><font size=6><b>D<\/b><\/font><\/td><td>4000F MSL<\/td><tr>\n            <tr><td>SFC<\/td><tr>\n          <\/table><br>", "altitudeMode": "absolute", "tessellate": -1, "extrude": 0 }, "geometry": { "type": "Point", "coordinates": [ -112.367592592592999, 33.5678703703704 ] } }
+]
+}
